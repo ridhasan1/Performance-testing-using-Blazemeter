@@ -1,0 +1,37 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1676035251957,1598,https://www.amazon.com/,200,OK,Thread Group 1-7,text,true,,107756,689,9,9,https://www.amazon.com/,1349,0,993
+1676035251956,1598,Home,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,107756,689,9,9,null,1349,8,993
+1676035252182,1397,https://www.amazon.com/,200,OK,Thread Group 1-9,text,true,,107738,689,9,9,https://www.amazon.com/,1127,0,762
+1676035252180,1397,Home,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,107738,689,9,9,null,1127,4,762
+1676035251633,2045,https://www.amazon.com/,200,OK,Thread Group 1-4,text,true,,115452,689,9,9,https://www.amazon.com/,1780,0,1299
+1676035251630,2045,Home,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,115452,689,9,9,null,1780,4,1299
+1676035253563,380,https://www.amazon.com/customer-preferences/api/flyout/xop-and-country?icpContent=icp&_=1676034790556,200,OK,Thread Group 1-7,text,true,,2231,684,9,9,https://www.amazon.com/customer-preferences/api/flyout/xop-and-country?icpContent=icp&_=1676034790556,380,0,0
+1676035253562,380,Electronics,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,2231,684,9,9,null,380,2,0
+1676035253583,400,https://www.amazon.com/customer-preferences/api/flyout/xop-and-country?icpContent=icp&_=1676034790556,200,OK,Thread Group 1-9,text,true,,2230,684,8,8,https://www.amazon.com/customer-preferences/api/flyout/xop-and-country?icpContent=icp&_=1676034790556,400,0,0
+1676035253582,400,Electronics,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,2230,684,8,8,null,400,3,0
+1676035251520,2471,https://www.amazon.com/,200,OK,Thread Group 1-3,text,true,,115678,689,7,7,https://www.amazon.com/,1808,0,1423
+1676035251518,2471,Home,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,115678,689,7,7,null,1808,2,1423
+1676035251470,2546,https://www.amazon.com/,200,OK,Thread Group 1-2,text,true,,115489,689,7,7,https://www.amazon.com/,1837,0,1464
+1676035251411,2546,Home,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,115489,689,7,7,null,1837,59,1464
+1676035251850,2183,https://www.amazon.com/,200,OK,Thread Group 1-6,text,true,,115539,689,7,7,https://www.amazon.com/,1457,0,1086
+1676035251848,2183,Home,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,115539,689,7,7,null,1457,2,1086
+1676035253679,367,https://www.amazon.com/customer-preferences/api/flyout/xop-and-country?icpContent=icp&_=1676034790556,200,OK,Thread Group 1-4,text,true,,2205,684,7,7,https://www.amazon.com/customer-preferences/api/flyout/xop-and-country?icpContent=icp&_=1676034790556,367,0,0
+1676035253679,367,Electronics,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,2205,684,7,7,null,367,0,0
+1676035252068,2187,https://www.amazon.com/,200,OK,Thread Group 1-8,text,true,,116155,689,6,6,https://www.amazon.com/,1338,0,881
+1676035252067,2187,Home,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,116155,689,6,6,null,1338,2,881
+1676035253994,369,https://www.amazon.com/customer-preferences/api/flyout/xop-and-country?icpContent=icp&_=1676034790556,200,OK,Thread Group 1-3,text,true,,2232,684,6,6,https://www.amazon.com/customer-preferences/api/flyout/xop-and-country?icpContent=icp&_=1676034790556,368,0,0
+1676035253992,369,Electronics,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,2232,684,6,6,null,368,2,0
+1676035254034,350,https://www.amazon.com/customer-preferences/api/flyout/xop-and-country?icpContent=icp&_=1676034790556,200,OK,Thread Group 1-6,text,true,,2208,684,5,5,https://www.amazon.com/customer-preferences/api/flyout/xop-and-country?icpContent=icp&_=1676034790556,350,0,0
+1676035254033,350,Electronics,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,2208,684,5,5,null,350,1,0
+1676035254017,400,https://www.amazon.com/customer-preferences/api/flyout/xop-and-country?icpContent=icp&_=1676034790556,200,OK,Thread Group 1-2,text,true,,2229,684,4,4,https://www.amazon.com/customer-preferences/api/flyout/xop-and-country?icpContent=icp&_=1676034790556,400,0,0
+1676035254016,400,Electronics,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,2229,684,4,4,null,400,2,0
+1676035251738,2693,https://www.amazon.com/,200,OK,Thread Group 1-5,text,true,,107465,689,3,3,https://www.amazon.com/,2038,0,1205
+1676035251737,2693,Home,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,107465,689,3,3,null,2038,1,1205
+1676035251470,3067,https://www.amazon.com/,200,OK,Thread Group 1-1,text,true,,115637,689,3,3,https://www.amazon.com/,2697,0,1469
+1676035251306,3067,Home,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,115637,689,3,3,null,2697,165,1469
+1676035254432,349,https://www.amazon.com/customer-preferences/api/flyout/xop-and-country?icpContent=icp&_=1676034790556,200,OK,Thread Group 1-5,text,true,,2206,684,3,3,https://www.amazon.com/customer-preferences/api/flyout/xop-and-country?icpContent=icp&_=1676034790556,349,0,0
+1676035254431,349,Electronics,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,2206,684,3,3,null,349,2,0
+1676035254538,390,https://www.amazon.com/customer-preferences/api/flyout/xop-and-country?icpContent=icp&_=1676034790556,200,OK,Thread Group 1-1,text,true,,2230,684,2,2,https://www.amazon.com/customer-preferences/api/flyout/xop-and-country?icpContent=icp&_=1676034790556,390,0,0
+1676035254538,390,Electronics,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,2230,684,2,2,null,390,1,0
+1676035254256,676,https://www.amazon.com/customer-preferences/api/flyout/xop-and-country?icpContent=icp&_=1676034790556,200,OK,Thread Group 1-8,text,true,,2206,684,1,1,https://www.amazon.com/customer-preferences/api/flyout/xop-and-country?icpContent=icp&_=1676034790556,676,0,0
+1676035254256,676,Electronics,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,2206,684,1,1,null,676,1,0
